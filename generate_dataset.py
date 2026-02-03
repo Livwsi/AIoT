@@ -1,7 +1,11 @@
+
+
 """
 Generate Training Dataset for AIoT Workshop
 Creates 100 bus trajectories (50 each direction) with realistic variations
-Students will use this to train their ML models
+
+if you want to reain your model with even more datasets, here is an example of a script that generates datasets, good luck :)
+
 """
 import requests
 import csv
